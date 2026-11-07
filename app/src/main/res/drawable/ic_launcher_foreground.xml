@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer ballot box -->
+    <path
+        android:fillColor="#FAF7F8"
+        android:pathData="M30,34 L78,34 C81.3,34 84,36.7 84,40 L84,78 C84,81.3 81.3,84 78,84 L30,84 C26.7,84 24,81.3 24,78 L24,40 C24,36.7 26.7,34 30,34 Z" />
+    <!-- Inner cutout -->
+    <path
+        android:fillColor="#94445D"
+        android:pathData="M34,42 L74,42 C75.1,42 76,42.9 76,44 L76,76 C76,77.1 75.1,78 74,78 L34,78 C32.9,78 32,77.1 32,76 L32,44 C32,42.9 32.9,42 34,42 Z" />
+    <!-- Ballot slot at top -->
+    <path
+        android:fillColor="#FAF7F8"
+        android:pathData="M38,26 L70,26 C71.1,26 72,26.9 72,28 L72,31 L36,31 L36,28 C36,26.9 36.9,26 38,26 Z" />
+    <!-- Checkmark inside -->
+    <path
+        android:fillColor="#FAF7F8"
+        android:pathData="M44,58 L50,64 L64,48 L68,52 L50,72 L40,62 Z" />
+</vector>

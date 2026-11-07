@@ -1,0 +1,6 @@
+{
+  "name": "DVS Voting",
+  "description": "Digital Voting System voter companion app for secure civic elections",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
